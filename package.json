@@ -49,14 +49,14 @@
     "underscore": "latest",
     "uuid": "^3.4.0",
     "vue": "^2.6.10",
-    "web3": "1.2.4",
+    "web3": "4.0.1",
     "web3-core-helpers": "1.2.4",
     "web3-core-method": "1.2.4",
     "web3-core-requestmanager": "1.2.4",
     "web3-utils": "1.2.4",
     "webrtc-adapter": "^6.4.3",
     "wrtc": "^0.4.6",
-    "ws": "^7.2.1"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
